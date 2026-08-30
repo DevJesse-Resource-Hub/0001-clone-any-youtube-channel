@@ -51,7 +51,7 @@ Use the insights to develop your own ideas, positioning, and creative execution.
 
 ## 🔗 More Dev Jesse Resources
 
-← [Back to the Dev Jesse Resource Hub](https://github.com/DevJesse)
+← [Back to the Dev Jesse Resource Hub](https://github.com/DevJesse-Resource-Hub)
 
 ---
 
