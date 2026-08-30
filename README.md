@@ -57,4 +57,4 @@ Use the insights to develop your own ideas, positioning, and creative execution.
 
 **Resource ID:** `DJ-0001`
 
-**Created by Dev Jesse × DevSilver**
+**Created by Dev Jesse × DevSylva**
